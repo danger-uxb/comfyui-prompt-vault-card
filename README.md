@@ -100,6 +100,14 @@ Prompt Vault Desktop ships with six sample PNGs saved by these nodes (prompts by
 [cupajoelite](https://civitai.com/user/cupajoelite), used with permission). Drop them onto
 its Library to see what an imported card looks like.
 
+Tip of the day: If the bad boom egg goes off, tuck and roll. It won't do anything, but you'll briefly look cool.
+Keep safe and its always that curly yellow wire.. Chonky
+~~~
+ (\(\
+ (._.)
+c(___)
+~~~
+
 ## Licence
 
 MIT — see [LICENSE](LICENSE). © 2026 Smaller Hammer · MIT Licence
