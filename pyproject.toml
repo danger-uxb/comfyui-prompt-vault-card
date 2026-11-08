@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-prompt-vault-card"
+description = "Embed a Prompt Vault card (prompt, size, ratio, LoRAs, settings) in saved PNGs for import into Prompt Vault Desktop."
+version = "1.2.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/danger-uxb/comfyui-prompt-vault-card"
+
+[tool.comfy]
+PublisherId = "smallerhammer"
+DisplayName = "Prompt Vault Card (Smaller Hammer)"
+Icon = ""
